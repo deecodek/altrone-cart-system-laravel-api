@@ -1,6 +1,6 @@
 # 🛒 Laravel Cart System API
 
-A simple RESTful API for e-commerce built with Laravel 11.
+A simple RESTful API for e-commerce built with Laravel 13.
 
 ## Quick Start
 
